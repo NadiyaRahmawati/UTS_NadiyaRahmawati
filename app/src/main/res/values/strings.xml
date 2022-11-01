@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS Nadiya Rahmawati</string>
+    <string-array name="arr_spjalur">
+        <item>Jalur Pendaftaran</item>
+        <item>Rekomendasi</item>
+        <item>Jalur Tanpa tes</item>
+        <item>Tes Tertulis</item>
+        <item>Tes Wawancara</item>
+    </string-array>
+</resources>
